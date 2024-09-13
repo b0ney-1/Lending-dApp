@@ -6,7 +6,7 @@ import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 import "@openzeppelin/contracts/token/ERC20/extensions/ERC20Permit.sol";
 
-contract USD is ERC20, Ownable, ERC20Permit {
+contract Bitcoin is ERC20, Ownable, ERC20Permit {
     constructor(string memory name, string memory symbol)
         ERC20(name, symbol)
         Ownable(msg.sender)
@@ -14,7 +14,7 @@ contract USD is ERC20, Ownable, ERC20Permit {
     {}
 
     function mint(address to, uint256 amount) public {
-        require(amount <= 100 * 10 ** 18, "amount must be less than 100");
+        require(amount <= 10 * 10 ** 18, "amount must be less than 10");
         _mint(to, amount);
     }
 }
