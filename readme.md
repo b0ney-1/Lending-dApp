@@ -85,6 +85,6 @@ Replace "Your commit message" with a brief description of your changes.
 
 - **Project Repository**: [https://github.com/b0ney-1/Lending-dApp.git](https://github.com/b0ney-1/Lending-dApp.git)
 - **Branch Name**: main
-- **Official Core Repository (For Fork)**: [NICAT-15-Sep](https://github.com/coredao-org/Build-On-Core/tree/main/University-Dev-Tours/Pakistan/NICAT-15-Sep)
+- **Official Core Repository (For Fork)**: [NICAT-15-Sep](https://github.com/coredao-org/Build-On-Core/tree/main)
 
 Happy coding!
