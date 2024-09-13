@@ -87,4 +87,12 @@ Replace "Your commit message" with a brief description of your changes.
 - **Branch Name**: main
 - **Official Core Repository (For Fork)**: [NICAT-15-Sep](https://github.com/coredao-org/Build-On-Core/tree/main)
 
+**Important**: Your project must be placed in the following folder:
+
+```
+University-Dev-Tours/Pakistan/NICAT-15-Sep
+```
+
+Ensure that all your project files and folders are created within this directory structure.
+
 Happy coding!
